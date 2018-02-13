@@ -1,0 +1,20 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  // Defines one rem
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #fcf9f9;
+  color: #34495e;
+  font-size: 16px;
+  line-height: 1.7;
+  padding: 3rem;
+}
